@@ -1,0 +1,71 @@
+ven ###
+
+target/
+
+!.mvn/wrapper/maven-wrapper.jar
+
+
+
+### Java ###
+
+*.class
+
+*.jar
+
+*.war
+
+*.log
+
+hs_err_pid*
+
+
+
+### Spring Boot ###
+
+/logs/
+
+/tmp/
+
+/build/
+
+/out/
+
+
+
+### Eclipse / STS ###
+
+.metadata/
+
+bin/
+
+.settings/
+
+.classpath
+
+.project
+
+
+
+### IntelliJ ###
+
+.idea/
+
+*.iml
+
+out/
+
+
+
+### VS Code ###
+
+.vscode/
+
+
+
+### OS ###
+
+.DS_Store
+
+Thumbs.db
+
+
