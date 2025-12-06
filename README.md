@@ -1,4 +1,4 @@
-pring Boot Demo Project — Simple User CRUD
+spring Boot Demo Project — Simple User CRUD
 
 
 
